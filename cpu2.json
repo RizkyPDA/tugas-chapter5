@@ -1,0 +1,90 @@
+[
+	{
+		"model": "Intel(R) Core(TM) i5-1030NG7 CPU @ 1.10GHz",
+		"speed": 1100,
+		"times": {
+			"user": 57309730,
+			"nice": 0,
+			"sys": 33998880,
+			"idle": 215390960,
+			"irq": 0
+		}
+	},
+	{
+		"model": "Intel(R) Core(TM) i5-1030NG7 CPU @ 1.10GHz",
+		"speed": 1100,
+		"times": {
+			"user": 2950050,
+			"nice": 0,
+			"sys": 3361690,
+			"idle": 300357310,
+			"irq": 0
+		}
+	},
+	{
+		"model": "Intel(R) Core(TM) i5-1030NG7 CPU @ 1.10GHz",
+		"speed": 1100,
+		"times": {
+			"user": 53926210,
+			"nice": 0,
+			"sys": 23326500,
+			"idle": 229416720,
+			"irq": 0
+		}
+	},
+	{
+		"model": "Intel(R) Core(TM) i5-1030NG7 CPU @ 1.10GHz",
+		"speed": 1100,
+		"times": {
+			"user": 2719990,
+			"nice": 0,
+			"sys": 2984550,
+			"idle": 300964400,
+			"irq": 0
+		}
+	},
+	{
+		"model": "Intel(R) Core(TM) i5-1030NG7 CPU @ 1.10GHz",
+		"speed": 1100,
+		"times": {
+			"user": 46925640,
+			"nice": 0,
+			"sys": 18520360,
+			"idle": 241223310,
+			"irq": 0
+		}
+	},
+	{
+		"model": "Intel(R) Core(TM) i5-1030NG7 CPU @ 1.10GHz",
+		"speed": 1100,
+		"times": {
+			"user": 2895800,
+			"nice": 0,
+			"sys": 2983520,
+			"idle": 300789490,
+			"irq": 0
+		}
+	},
+	{
+		"model": "Intel(R) Core(TM) i5-1030NG7 CPU @ 1.10GHz",
+		"speed": 1100,
+		"times": {
+			"user": 39846180,
+			"nice": 0,
+			"sys": 15522680,
+			"idle": 251300310,
+			"irq": 0
+		}
+	},
+	{
+		"model": "Intel(R) Core(TM) i5-1030NG7 CPU @ 1.10GHz",
+		"speed": 1100,
+		"times": {
+			"user": 3046820,
+			"nice": 0,
+			"sys": 2900430,
+			"idle": 300721430,
+			"irq": 0
+		}
+	}
+]
